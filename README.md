@@ -28,7 +28,7 @@ I have been studying game design since the summer of 2023. I understand prototyp
 Now I'm opening a student game dev club so that anyone can get acquainted with such a cool kind of art
 
 
-### :space_invader: Game jams enthusiast
+## :space_invader: Game jams enthusiast
 
 In addition, I am a game jam enthusiast, since 2023 I have often participated in [**LudumDare**](https://ldjam.com/users/udfblr/games).
 
