@@ -25,7 +25,7 @@ You can learn more about my experience in my [**CV**](https://myresume.ru/resume
 
 I have been studying game design since the summer of 2023. I understand prototyping game mechanics, artificial intelligence of enemies, boss battles and combat systems using C# respectively.
 
-Now I'm opening a student game dev club so that anyone can get acquainted with such a cool kind of art
+Now I'm opening a student gamedev club so that anyone can get acquainted with such a cool kind of art
 
 
 ## :space_invader: Game jams enthusiast
